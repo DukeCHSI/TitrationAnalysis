@@ -1,5 +1,7 @@
 # KineticsToolkit
 Tools for high throughput binding kinetics data analysis
+# Version history
+Version 1.0: initial release
 # Help
 If you need help or have suggestions, feel free to contact Kan Li via email at kl122@duke.edu. You may also communicate through GitHub Discussions.
 # Author
