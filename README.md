@@ -35,8 +35,7 @@ Upon executing the command for the desired module, the user will be asked to sel
 The example files are provided for each of the platform in the following directories: Example Files – Carterra, Example Files – T200 and Example Files – BLI.
 
 #### Carterra Example Input Files
-<em>Sample Information Sheet</em>: Example Data Info Sheet - Carterra.xlsx
-
+<em>Sample Information Sheet</em>: Example Data Info Sheet - Carterra.xlsx\
 <em>Sample Exported Data</em>: Example Exported Data - Carterra.xlsx (Currently in a multi-part zipped file due to the large file size, please use applications such as 7-zip to re-combine the zipped file and extract the excel file inside)
 #### Carterra Example Output Files
 <em>Sample Fitted Sensorgrams Report</em>: Titration Analysis_Carterra_Sensorgram_Example.pdf
