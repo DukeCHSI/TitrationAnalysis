@@ -10,7 +10,7 @@ The <em>TitrationAnalysis</em> tool is currently built as a Mathematica<sup>:tm:
 
 # Getting Started
 ## Installation
-Open the package file (with extension “.m”) in Mathematica<sup>:tm:</sup>. Go to **File → Install**, and install the package as shown in the image below and click “OK”. For Mathematica 13.0 and above, please use the corresponding version contained in this repository.
+Open the package file (with extension “.m”) in Mathematica<sup>:tm:</sup>. Go to **File → Install**, and install the package as shown in the image below and click “OK”. For Mathematica 13.0 and above, please use the corresponding version contained in this repository. Some of the later updates in Mathematica 12th version, such as Mathematica 12.3, might require package adapted for Mathematica 13.0 as well.
 
 <p align="center">
 <img src="Graphics for README/Installation illustration 2023May.png" width="300"/>
