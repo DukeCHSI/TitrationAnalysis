@@ -30,21 +30,25 @@ The example files are provided for each of the platform in the following directo
 
 #### Carterra Example Input Files
 Sample Information Sheet: Example Data Info Sheet - Carterra.xlsx
+
 Sample Exported Data: Example Exported Data - Carterra.xlsx
 #### Carterra Example Output Files
 Sample Fitted Sensorgrams Report: Titration Analysis_Carterra_Sensorgram_Example.pdf
+
 Sample Kinetics Estimates Report: Titration Analysis_Carterra_Report_Example.csv
 #### T200 Example Input Files
 Sample Information Sheet: Example T200 Data Info Sheet.xlsx
 Sample Exported Data: Example T200 Chip 1 Channel 2.txt
 #### T200 Example Output Files
 Sample Fitted Sensorgrams Report: Titration Analysis_T200_Sensorgram_Example.pdf
+
 Sample Kinetics Estimates Report: Titration Analysis_T200_Report_Example.csv
 #### BLI Example Input Files
 Sample Information Sheet: Example Data Info Sheet - BLI.xlsx
 Sample Exported Data: BLI Example Tray 1
 #### BLI Example Output Files
 Sample Fitted Sensorgrams Report: Titration Analysis_BLI_Sensorgram_Example.pdf
+
 Sample Kinetics Estimates Report: Titration Analysis_BLI_Report_Example.csv
 ### Running analysis for Carterra platform
 
