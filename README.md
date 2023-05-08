@@ -19,6 +19,8 @@ The command "Get["KineticsToolkit`"]" can be used to call the package. Then the 
 <img src="Graphics for README/Package Calling 2023May.PNG" width="450"/>
 </p>
 
+Upon executing the command for the desired module, the user will be asked to select the sample information sheet, as shown in the image blow. Click “Open” after selecting.
+
 <p align="center">
 <img src="Graphics for README/Platform Calling 2023May.PNG" width="450"/>
 </p>
