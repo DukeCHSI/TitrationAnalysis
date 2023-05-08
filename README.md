@@ -12,7 +12,7 @@ Open the package file (with extension “.m”) in Mathematica. Go to file → i
 
 ## Execution
 ### Basic command
-The command "Get["KineticsToolkit`"]" can be used to call the pacakge. Then the module corresponding to one of the platforms can be called, as shown in the image below
+The command "Get["KineticsToolkit`"]" can be used to call the pacakge. Then the module corresponding to one of the platforms can be called, as shown in the image below.
 
 <p align="center">
 <img src="Graphics for README/Package Calling 2023May.PNG" width="500"/>
