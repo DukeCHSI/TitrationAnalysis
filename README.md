@@ -5,7 +5,7 @@ This repository contains the necessary files to install and execute the first ve
 # Description
 # Getting Started
 ## Installation
-Open the package file (with extension “.m”) in Mathematica. Go to file → install, and install the package as shown in the image below and click “OK”. For Mathematica 13.0 and above, please use the corresponding version contained in this repository.
+Open the package file (with extension “.m”) in Mathematica. Go to File → Install, and install the package as shown in the image below and click “OK”. For Mathematica 13.0 and above, please use the corresponding version contained in this repository.
 
 <p align="center">
 <img src="Graphics for README/Installation illustration 2023May.png" width="300"/>
@@ -39,6 +39,8 @@ The example files are provided for each of the platform in the following directo
 
 ### Running analysis for T200 platform
 ### Running analysis for BLI platform
+### Stopping analysis
+If the analysis needs to be stopped for any reason, go to Evaluation → Abort Evaluation to stop code execution.
 # Version history
 Version 1.0: initial release
 # Help
