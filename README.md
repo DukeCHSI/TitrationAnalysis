@@ -19,6 +19,10 @@ The command "Get["KineticsToolkit`"]" can be used to call the package. Then the 
 <img src="Graphics for README/Package Calling 2023May.PNG" width="450"/>
 </p>
 
+<p align="center">
+<img src="Graphics for README/Platform Calling 2023May.PNG" width="450"/>
+</p>
+
 ### Example files
 The example files are provided for each of the platform in the following directories: Example Files – Carterra, Example Files – T200 and Example Files – BLI. The use of the example files are detailed in the sections below.
 ### Running analysis for Carterra platform
