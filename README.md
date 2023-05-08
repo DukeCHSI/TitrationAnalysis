@@ -31,7 +31,7 @@ The example files are provided for each of the platform in the following directo
 #### Carterra Example Input Files
 <em>Sample Information Sheet</em>: Example Data Info Sheet - Carterra.xlsx
 
-<em>Sample Exported Data</em>: Example Exported Data - Carterra.xlsx
+<em>Sample Exported Data</em>: Example Exported Data - Carterra.xlsx (Currently in a multi-part zipped file due to the large file size, please use applications such as 7-zip to re-combine the zipped file and extract the excel file inside)
 #### Carterra Example Output Files
 <em>Sample Fitted Sensorgrams Report</em>: Titration Analysis_Carterra_Sensorgram_Example.pdf
 
@@ -47,7 +47,7 @@ The example files are provided for each of the platform in the following directo
 #### BLI Example Input Files
 <em>Sample Information Sheet</em>: Example Data Info Sheet - BLI.xlsx
 
-<em>Sample Exported Data</em>: BLI Example Tray 1
+<em>Sample Exported Data</em>: BLI Example Tray 1 (Folder containing multiple text files, currently contained in a zipped file, please extract the folder inside)
 #### BLI Example Output Files
 <em>Sample Fitted Sensorgrams Report</em>: Titration Analysis_BLI_Sensorgram_Example.pdf
 
