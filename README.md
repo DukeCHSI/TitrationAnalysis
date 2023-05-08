@@ -83,7 +83,7 @@ Then the user will be asked to provide the data collection frequency for appropr
 After making a few more selections for global analysis settings, the module will proceed to automatically analyze each sensorgram and generate output files. For the example file, please use default selections for all settings. As shown in the example information sheet, for the same sensorgram, multiple fitting optimizations can be included in the information sheet and implemented during analysis.
 
 ### Running analysis for BLI platform
-After choosing the sample information sheet, the user will be asked to type in the prefix for all the chip – channel combinations. The prefix for the example data set is shown in the image below. The module will attempt to read in the data based on this prefix to find all the chip – channel combinations indicated in the information sheet. Note that the content of the exported data needs to match what is indicated in the info sheet. Otherwise the module will not proceed.
+After choosing the sample information sheet, the user will be asked to type in the prefix for all the tray – sensor combinations. The prefix for the example data set is shown in the image below. The module will attempt to read in the data based on this prefix to find all the tray – sensor combinations indicated in the information sheet. Note that the content of the exported data needs to match what is indicated in the info sheet. Otherwise the module will not proceed.
 
 <p align="center">
 <img src="Graphics for README/BLI Example Prefix 2023May.PNG" width="250"/>
