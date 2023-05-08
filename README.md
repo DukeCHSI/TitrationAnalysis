@@ -5,6 +5,9 @@ This repository contains the necessary files to install and execute the first ve
 
 Please cite the repository as the following: Li K, Dennison SM. <em>TitrationAnalysis</em> tool [Computer Software] (2023).
 # Description
+The <em>TitrationAnalysis</em> tool is intended for the high-throughput analysis of binding kinetics data collected on multiple platforms. Currently, the <em>TitrationAnalysis</em> tool supports the analysis of data exported from Carterra LSA (SPRi), Biacore T200 (SPR) and ForteBio Octet Red384 (BLI). 
+The <em>TitrationAnalysis</em> tool is currently built as a Mathematica<sup>:tm:</sup> package. The package was built on Mathematica 12.0 and adapted for Mathematica 13.0. After the package installation, most of the user interactions will be guided by pop-up windows within Mathematica.
+
 # Getting Started
 ## Installation
 Open the package file (with extension “.m”) in Mathematica<sup>:tm:</sup>. Go to **File → Install**, and install the package as shown in the image below and click “OK”. For Mathematica 13.0 and above, please use the corresponding version contained in this repository.
