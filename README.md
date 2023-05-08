@@ -12,12 +12,14 @@ Open the package file (with extension “.m”) in Mathematica. Go to file → i
 
 ## Execution
 ### Basic command
-The command "Get["KineticsToolkit`"]" can be used to call the pacakge. Then the module corresponding to one of the platforms can be called, as shown in the image below.
+The command "Get["KineticsToolkit`"]" can be used to call the package. Then the module corresponding to one of the platforms can be called, as shown in the image below.
 
 <p align="center">
 <img src="Graphics for README/Package Calling 2023May.PNG" width="500"/>
 </p>
 
+### Example files
+The example files are provided for each of the platform in the following directories: Example Files – Carterra, Example Files – T200 and Example Files – BLI. The use of the example files are detailed in the sections below.
 ### Running analysis for Carterra platform
 ### Running analysis for T200 platform
 ### Running analysis for BLI platform
