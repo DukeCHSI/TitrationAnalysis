@@ -10,6 +10,12 @@ Open the package file (with extension “.m”) in Mathematica. Go to file → i
 <img src="Graphics for README/Installation illustration 2023May.png" width="300"/>
 </p>
 
+## Execution
+### Basic command
+
+### Running analysis for Carterra platform
+### Running analysis for T200 platform
+### Running analysis for BLI platform
 # Version history
 Version 1.0: initial release
 # Help
