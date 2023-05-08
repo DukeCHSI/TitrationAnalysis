@@ -5,6 +5,7 @@ This repository contains the necessary files to install and execute the first ve
 # Getting Started
 ## Installation
 <img src="Graphics for README/Installation illustration 2023May.png" width="128"/>
+
 # Version history
 Version 1.0: initial release
 # Help
