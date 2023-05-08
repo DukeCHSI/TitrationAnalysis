@@ -33,6 +33,10 @@ The example files are provided for each of the platform in the following directo
 <img src="Graphics for README/Sorting Choice 2023May.PNG" width="300"/>
 </p>
 
+<p align="center">
+<img src="Choose Carterra Data 2023May.PNG" width="450"/>
+</p>
+
 ### Running analysis for T200 platform
 ### Running analysis for BLI platform
 # Version history
