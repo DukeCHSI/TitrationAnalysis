@@ -2,6 +2,7 @@
 Tools for high throughput binding kinetics data analysis
 # Overview
 This repository contains the necessary files to install and execute the first version of <em>TitrationAnalysis</em> package (<em>TitrationAnalysis</em> v1.0).
+# Description
 # Getting Started
 ## Installation
 Open the package file (with extension “.m”) in Mathematica. Go to file → install, and install the package as shown in the image below and click “OK”. For Mathematica 13.0 and above, please use the corresponding version contained in this repository.
@@ -15,7 +16,7 @@ Open the package file (with extension “.m”) in Mathematica. Go to file → i
 The command "Get["KineticsToolkit`"]" can be used to call the package. Then the module corresponding to one of the platforms can be called, as shown in the image below.
 
 <p align="center">
-<img src="Graphics for README/Package Calling 2023May.PNG" width="500"/>
+<img src="Graphics for README/Package Calling 2023May.PNG" width="450"/>
 </p>
 
 ### Example files
