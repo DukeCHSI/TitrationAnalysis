@@ -1,4 +1,4 @@
-# <em>KineticsToolkit</em>
+# <em>TitrationAnalysis</em>
 Tools for high throughput binding kinetics data analysis
 # Version history
 Version 1.0: initial release
