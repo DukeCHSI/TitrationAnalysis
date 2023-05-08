@@ -40,21 +40,21 @@ The example files are provided for each of the platform in the following directo
 ### Running analysis for T200 platform
 
 <p align="center">
-<img src="Graphics for README/T200 Example Prefix 2023May.PNG" width="300"/>
+<img src="Graphics for README/T200 Example Prefix 2023May.PNG" width="200"/>
 </p>
 
 <p align="center">
-<img src="Graphics for README/T200 Example Frequency 2023May.PNG" width="300"/>
+<img src="Graphics for README/T200 Example Frequency 2023May.PNG" width="200"/>
 </p>
 
 ### Running analysis for BLI platform
 
 <p align="center">
-<img src="Graphics for README/BLI Example Prefix 2023May.PNG" width="300"/>
+<img src="Graphics for README/BLI Example Prefix 2023May.PNG" width="200"/>
 </p>
 
 <p align="center">
-<img src="Graphics for README/BLI Example Frequency 2023May.PNG" width="300"/>
+<img src="Graphics for README/BLI Example Frequency 2023May.PNG" width="200"/>
 </p>
 
 ### Stopping analysis
