@@ -34,7 +34,7 @@ The example files are provided for each of the platform in the following directo
 </p>
 
 <p align="center">
-<img src="Choose Carterra Data 2023May.PNG" width="450"/>
+<img src="Graphics for README/Choose Carterra Data 2023May.PNG" width="450"/>
 </p>
 
 ### Running analysis for T200 platform
