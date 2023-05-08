@@ -28,9 +28,12 @@ Upon executing the command for the desired module, the user will be asked to sel
 ### Example files
 The example files are provided for each of the platform in the following directories: Example Files – Carterra, Example Files – T200 and Example Files – BLI.
 
-#### Carterra Example Files
-#### T200 Example Files
-#### BLI Example Files
+#### Carterra Example Input Files
+#### Carterra Example Output Files
+#### T200 Example Input Files
+#### T200 Example Output Files
+#### BLI Example Input Files
+#### BLI Example Output Files
 
 ### Running analysis for Carterra platform
 
