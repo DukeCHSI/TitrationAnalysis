@@ -28,6 +28,11 @@ Upon executing the command for the desired module, the user will be asked to sel
 ### Example files
 The example files are provided for each of the platform in the following directories: Example Files – Carterra, Example Files – T200 and Example Files – BLI. The use of the example files are detailed in the sections below.
 ### Running analysis for Carterra platform
+
+<p align="center">
+<img src="Graphics for README/Sorting Choice 2023May.PNG" width="300"/>
+</p>
+
 ### Running analysis for T200 platform
 ### Running analysis for BLI platform
 # Version history
