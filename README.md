@@ -38,7 +38,25 @@ The example files are provided for each of the platform in the following directo
 </p>
 
 ### Running analysis for T200 platform
+
+<p align="center">
+<img src="Graphics for README/T200 Example Prefix 2023May.PNG" width="300"/>
+</p>
+
+<p align="center">
+<img src="Graphics for README/T200 Example Frequency 2023May.PNG" width="300"/>
+</p>
+
 ### Running analysis for BLI platform
+
+<p align="center">
+<img src="Graphics for README/BLI Example Prefix 2023May.PNG" width="300"/>
+</p>
+
+<p align="center">
+<img src="Graphics for README/BLI Example Frequency 2023May.PNG" width="300"/>
+</p>
+
 ### Stopping analysis
 If the analysis needs to be stopped for any reason, go to **Evaluation → Abort Evaluation** to stop code execution.
 # Version history
