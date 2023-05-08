@@ -1,7 +1,9 @@
 # <em>TitrationAnalysis</em>
-Tools for high throughput binding kinetics data analysis
+A tool for high throughput binding kinetics data analysis
 # Overview
 This repository contains the necessary files to install and execute the first version of <em>TitrationAnalysis</em> package (<em>TitrationAnalysis</em> v1.0).
+
+Please cite the repository as the following: Li K, Dennison SM. <em>TitrationAnalysis</em> tool [Computer Software] (2023).
 # Description
 # Getting Started
 ## Installation
