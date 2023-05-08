@@ -7,7 +7,7 @@ Please cite the repository as the following: Li K, Dennison SM. <em>TitrationAna
 # Description
 # Getting Started
 ## Installation
-Open the package file (with extension “.m”) in Mathematica<sup>TM</sup>. Go to **File → Install**, and install the package as shown in the image below and click “OK”. For Mathematica 13.0 and above, please use the corresponding version contained in this repository.
+Open the package file (with extension “.m”) in Mathematica:tm:. Go to **File → Install**, and install the package as shown in the image below and click “OK”. For Mathematica 13.0 and above, please use the corresponding version contained in this repository.
 
 <p align="center">
 <img src="Graphics for README/Installation illustration 2023May.png" width="300"/>
