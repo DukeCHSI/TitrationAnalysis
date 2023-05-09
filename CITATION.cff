@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: TitrationAnalysis
+message: A tool for high throughput binding kinetics data analysis
+type: software
+authors:
+  - given-names: Kan
+    family-names: Li
+    email: kl122@duke.edu
+    affiliation: Duke University
+  - affiliation: Duke University
+    given-names: Moses
+    family-names: Dennison
+    email: moses.sekaran@duke.edu
+repository-code: 'https://github.com/DukeCHSI/TitrationAnalysis'
+abstract: >-
+  The TitrationAnalysis tool is intended for the
+  high-throughput analysis of binding kinetics data
+  collected on multiple platforms, including Carterra LSA
+  (SPRi), Biacore T200 (SPR) and ForteBio Octet Red384
+  (BLI).
+keywords:
+  - Titration
+  - Surface Plasmon Resonance
+  - Biolayer Interferometry
+  - High Throughput
+license: GPL-3.0
+version: '1.0'
+date-released: '2023-05-09'
