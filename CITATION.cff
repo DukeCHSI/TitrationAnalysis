@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: TitrationAnalysis
+title: TitrationAnalysis tool
 message: A tool for high throughput binding kinetics data analysis
 type: software
 authors:
