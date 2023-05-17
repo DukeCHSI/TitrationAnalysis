@@ -17,6 +17,10 @@ Open the package file (with extension “.m”) in Mathematica<sup>:tm:</sup>. G
 <img src="Graphics for README/Installation illustration 2023May.png" width="300"/>
 </p>
 
+Note 1: For successful installation, please open the package file first in Mathematica and then select the opened package file as “source” during installation. Although the package file can be selected through pop-up file explorer window without first opening the package in Mathematica first, the installation by this method was found not always successful.
+
+Note 2: The version number the package file name ends in refers to the version of Mathematica the corresponding code is suitable for. For example, the package file with name ending in “V12” is suitable to be used in Mathematica V12.0 or similar versions.
+
 ## Execution
 ### Basic command
 The command **Get["KineticsToolkit`"]** can be used to call the package. Then the module corresponding to one of the platforms can be called, as shown in the image below.
@@ -74,7 +78,7 @@ Then the user will be asked to select a file containing the exported Carterra da
 After making a few more selections for global analysis settings, the module will proceed to automatically analyze each sensorgram and generate output files. For the example file, please use default selections for all settings.
 
 ### Running analysis for T200 platform
-After choosing the sample information sheet, the user will be asked to type in the prefix for all the chip – channel combinations. The prefix for the example data set is shown in the image below. The module will attempt to read in the data based on this prefix to find all the chip – channel combinations indicated in the information sheet. Note that the content of the exported data needs to match what is indicated in the info sheet. Otherwise the module will not proceed.
+After choosing the sample information sheet, the user will be asked to type in the prefix for all the chip – channel combinations. The prefix for the example data set is shown in the image below (Please type **exactly** as the image shows to match the example input file). The module will attempt to read in the data based on this prefix to find all the chip – channel combinations indicated in the information sheet. Note that the content of the exported data needs to match what is indicated in the info sheet. Otherwise the module will not proceed.
 
 <p align="center">
 <img src="Graphics for README/T200 Example Prefix 2023May.PNG" width="250"/>
@@ -89,7 +93,7 @@ Then the user will be asked to provide the data collection frequency for appropr
 After making a few more selections for global analysis settings, the module will proceed to automatically analyze each sensorgram and generate output files. For the example file, please use default selections for all settings. As shown in the example information sheet, for the same sensorgram, multiple fitting optimizations can be included in the information sheet and implemented during analysis.
 
 ### Running analysis for BLI platform
-After choosing the sample information sheet, the user will be asked to type in the prefix for all the tray – sensor combinations. The prefix for the example data set is shown in the image below. The module will attempt to read in the data based on this prefix to find all the tray – sensor combinations indicated in the information sheet. Note that the content of the exported data needs to match what is indicated in the info sheet. Otherwise the module will not proceed.
+After choosing the sample information sheet, the user will be asked to type in the prefix for all the tray – sensor combinations. The prefix for the example data set is shown in the image below (Please type **exactly** as the image shows to match the example input file). The module will attempt to read in the data based on this prefix to find all the tray – sensor combinations indicated in the information sheet. Note that the content of the exported data needs to match what is indicated in the info sheet. Otherwise the module will not proceed.
 
 <p align="center">
 <img src="Graphics for README/BLI Example Prefix 2023May.PNG" width="250"/>
