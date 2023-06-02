@@ -4,7 +4,7 @@ A tool for high throughput binding kinetics data analysis
 This repository contains the necessary files to install and execute the first version of <em>TitrationAnalysis</em> package (<em>TitrationAnalysis</em> v1.0).
 
 <!-- Please cite the repository as the following: Li K, Dennison SM. <em>TitrationAnalysis</em> tool [Computer Software] (2023). -->
-Li, Kan, & Dennison, S Moses. (2023). <em>TitrationAnalysis tool<em> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7998652
+Li, Kan, & Dennison, S Moses. (2023). <em>TitrationAnalysis tool</em> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7998652
 # Description
 The <em>TitrationAnalysis</em> tool is intended for the high-throughput analysis of binding kinetics data collected on multiple platforms. Currently, the <em>TitrationAnalysis</em> tool supports the analysis of data exported from Carterra LSA (SPRi), Biacore T200 (SPR) and ForteBio Octet Red384 (BLI).
 
@@ -119,4 +119,5 @@ Code was developed by Kan Li (kl122@duke.edu).
 Other contributors to code development include Georgia D. Tomaras, Gillian Q. Horn and S. Moses Dennison (moses.sekaran@duke.edu).
 # License
 This project is licensed under the GNU GPLv3 license. Please see LICENSE.md file for details.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7998652.svg)](https://doi.org/10.5281/zenodo.7998652)
