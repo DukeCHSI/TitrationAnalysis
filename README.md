@@ -118,6 +118,6 @@ If you need help or have suggestions, feel free to contact Kan Li via email at k
 Code was developed by Kan Li (kl122@duke.edu).
 Other contributors to code development include Georgia D. Tomaras, Gillian Q. Horn and S. Moses Dennison (moses.sekaran@duke.edu).
 # License
-This project is licensed under the CC0-1.0 license. Please see LICENSE.md file for details.
+This project is licensed under the CC-BY-4.0 license. Please see LICENSE.md file for details.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7998652.svg)](https://doi.org/10.5281/zenodo.7998652)
