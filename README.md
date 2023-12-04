@@ -1,5 +1,7 @@
 # <em>TitrationAnalysis</em>
 A tool for high throughput binding kinetics data analysis
+# Notes
+The user might experience unexpected glitches with PDF file generation when using the package on Mathematica 13.3, potentially due to changes in how the software handles dynamic updating. This is being investigated. For the best results, please try to use the package on Mathematica 12.0 - 13.0.
 # Overview
 This repository contains the necessary files to install and execute the first version of <em>TitrationAnalysis</em> package (<em>TitrationAnalysis</em> v1.0).
 
