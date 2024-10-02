@@ -1,6 +1,7 @@
 # <em>TitrationAnalysis</em>
 A tool for high throughput binding kinetics data analysis
 # Notes
+## Compatibility with Mathematica versions above 13.1
 The user might experience unexpected glitches with PDF file generation when using the package on Mathematica 13.3, due to changes in how the software handles dynamic updating. In this particular Mathematica version, the page break needs to be calculated for a prolonged period of time and the users are prompted to confirm that they are waiting for the page break calculation to finish every minute or so and they need to manually click a button to proceed.
 
 The script as it stands will not will for Mathematica 14.1. This is being actively investigated.
