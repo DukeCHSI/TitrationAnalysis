@@ -2,9 +2,9 @@
 A tool for high throughput binding kinetics data analysis
 # Notes
 ## Compatibility with Mathematica versions above 13.1
-The user might experience unexpected glitches with PDF file generation when using the package on Mathematica 13.3, due to changes in how the software handles dynamic updating. In this particular Mathematica version, the page break needs to be calculated for a prolonged period of time and the users are prompted to confirm that they are waiting for the page break calculation to finish every minute or so and they need to manually click a button to proceed.
+The user needs to manually engage with PDF file generation when using the package on Mathematica 13.3 and above, due to changes in how the software handles dynamic updating. The page break needs to be calculated for a prolonged period of time and the users are prompted to confirm that they are waiting for the page break calculation to finish at least once during the process and they need to manually click a button to proceed. If there is an alternative approach to handle PDF generation, an update will be provided.
 
-The script as it stands will not will for Mathematica 14.1. This is being actively investigated. Potentially only some small adjustments is needed. If so, a Mathematica 14.1 compatible version will be uploaded here. If the PDF file generation process is shown to be similar to Mathematica 13.1, it will be noted here as well.
+The script as it stands will not will for Mathematica 14.1. This is due to changes in the grammar of non-linear fitting module. A Mathematica 14.1 compatible version will be uploaded here in the near future.
 
 # Overview
 This repository contains the necessary files to install and execute the first version of <em>TitrationAnalysis</em> package (<em>TitrationAnalysis</em> v1.0).
@@ -31,6 +31,11 @@ Note 1: For successful installation, please open the package file first in Mathe
 Note 2: The version number the package file name ends in refers to the version of Mathematica the corresponding code is suitable for. For example, the package file with name ending in “V12” is suitable to be used in Mathematica V12.0 or similar versions.
 
 ## Execution
+
+### Data Pre-processing
+
+Typically, the user is expected to carry out data reference subtraction, zero analyte concentration cycle (blank cycle) subtraction and data smoothing using the commercial software paired with the data collection platform before exporting the pre-processed data for use in <em>TitrationAnalysis</em>.
+
 ### Basic command
 The command **Get["KineticsToolkit`"]** can be used to call the package. Then the module corresponding to one of the platforms can be called, as shown in the image below.
 
