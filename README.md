@@ -2,7 +2,9 @@
 A tool for high throughput binding kinetics data analysis
 # Notes
 ## Compatibility with Mathematica versions above 13.1
-The user needs to manually engage with PDF file generation when using the package on Mathematica 13.3 and above, due to changes in how the software handles dynamic updating. The page break needs to be calculated for a prolonged period of time and the users are prompted to confirm that they are waiting for the page break calculation to finish at least once during the process and they need to manually click a button to proceed. If there is an alternative approach to handle PDF generation, an update will be provided.
+The user needs to manually engage with PDF file generation when using the package on Mathematica 13.3 and above, due to changes in how the software handles dynamic updating. The page break needs to be calculated for a prolonged period of time and the users are prompted to confirm that they are waiting for the page break calculation to finish at least once during the process and they need to manually click a button to proceed. 
+
+Update 2025-05-22: Please execute this line of code before running the TitrationAnalysis command: "SetOptions[$FrontEnd, "DynamicEvaluationTimeout" -> 10000]". This will prolong the timeout for dynamic updating and prevent the prompt from the showing up.
 
 The script as it stands will not will for Mathematica 14.1. This is due to changes in the grammar of non-linear fitting module. A Mathematica 14.1 compatible version will be uploaded here in the near future.
 
